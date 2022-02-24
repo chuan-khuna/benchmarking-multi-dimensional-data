@@ -10,6 +10,18 @@ def: climate data, multi dimensional data
 - you can think it looks like numpy array with shape (time, row, col), the (row, col) is a map.
 ```
 
+## Inspiration
+
+- The old code was very slow
+  - to refactor or propose the better idea to do
+- I have learnt a little about parallelism from DataCamp's writing effective R code.
+  - to practise my parallel computing skills`
+
 ## Questions
 
 - Does multi-processing, multi-threading speed up MKT?
+
+## files
+
+- the prefix `b` represents benchmarking
+- the prefix `v` represents visualisation
