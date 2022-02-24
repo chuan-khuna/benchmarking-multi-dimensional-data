@@ -21,7 +21,13 @@ def: climate data, multi dimensional data
 
 - Does multi-processing, multi-threading speed up MKT?
 
-## files
+## Files
 
 - the prefix `b` represents benchmarking
 - the prefix `v` represents visualisation
+
+## Tested on ...
+
+```txt
+MacBook Pro 14-inch (2021), M1 Pro, 32GB unified memory
+```
