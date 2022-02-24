@@ -15,7 +15,7 @@ def: climate data, multi dimensional data
 - The old code was very slow
   - to refactor or propose the better idea to do
 - I have learnt a little about parallelism from DataCamp's writing effective R code.
-  - to practise my parallel computing skills`
+  - to practise my parallel computing skills
 
 ## Questions
 
